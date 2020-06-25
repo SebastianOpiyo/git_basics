@@ -1,0 +1,7 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Date Created: Jun 25, 2020
+# Date Modified:
+# Description: A ping script for automating ping
+
+ping -c1 google.com 
